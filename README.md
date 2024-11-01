@@ -1,4 +1,4 @@
-# Vite + React + Tailwind CSS Starter Template
+# Vite + React + Tailwind CSS Starter Template using NPM package
 
 A modern, pre-configured starter template that combines Vite, React, and Tailwind CSS with a well-organized project structure. This template includes routing setup, layout components, and essential directory organization to help you start building React applications faster.
 
