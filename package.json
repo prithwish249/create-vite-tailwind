@@ -1,0 +1,21 @@
+{
+  "name": "create-vite-tailwind-unique",
+  "version": "1.0.1",
+  "description": "A CLI tool to create a Vite + Tailwind CSS React project with a single click",
+  "main": "index.js",
+  "bin": {
+    "create-vite-tailwind-unique": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vite",
+    "tailwind",
+    "react",
+    "cli"
+  ],
+  "author": "coder_guy",
+  "license": "MIT",
+  "dependencies": {}
+}
