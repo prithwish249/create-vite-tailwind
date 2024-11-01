@@ -4,7 +4,7 @@ A modern, pre-configured starter template that combines Vite, React, and Tailwin
 
 # Create Vite Tailwind Unique
 
-A CLI tool to create a Vite + Tailwind CSS React project with a single click.
+A CLI tool to create a Vite + Tailwind CSS React project with a single command.
 
 ### Download the Package
 
