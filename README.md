@@ -12,20 +12,25 @@ To use the CLI tool, first download the package by running:
 
 ```bash
 npm install create-vite-tailwind-unique
-
+```
 
 After installing the package, you can create a new project by running:
 
+```bash
 npx create-vite-tailwind-unique <yourProjectName>
+```
 
-Start Development
 Once the project is created successfully, navigate into your project directory:
-cd <yourProjectName>
 
+```bash
+cd <yourProjectName>
+```
 
 Then, start the development server with:
+```bash
 npm run dev
-
+```
+### If necessary you can delete the existing project or modify the existing.
 
 ## Features
 
