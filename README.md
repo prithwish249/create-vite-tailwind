@@ -2,6 +2,31 @@
 
 A modern, pre-configured starter template that combines Vite, React, and Tailwind CSS with a well-organized project structure. This template includes routing setup, layout components, and essential directory organization to help you start building React applications faster.
 
+# Create Vite Tailwind Unique
+
+A CLI tool to create a Vite + Tailwind CSS React project with a single click.
+
+### Download the Package
+
+To use the CLI tool, first download the package by running:
+
+```bash
+npm install create-vite-tailwind-unique
+
+
+After installing the package, you can create a new project by running:
+
+npx create-vite-tailwind-unique <yourProjectName>
+
+Start Development
+Once the project is created successfully, navigate into your project directory:
+cd <yourProjectName>
+
+
+Then, start the development server with:
+npm run dev
+
+
 ## Features
 
 - ⚡️ [Vite](https://vitejs.dev/) - Lightning fast build tool
@@ -16,18 +41,20 @@ A modern, pre-configured starter template that combines Vite, React, and Tailwin
 ## Project Structure
 
 ```
+
 src/
-├── assets/        # Static assets like images, fonts, etc.
-├── components/    # Reusable UI components
-│   └── ui/       # Basic UI components
-├── constants/     # Application constants
-├── contexts/      # React context providers
-├── hooks/         # Custom React hooks
-├── layouts/       # Layout components
-├── pages/         # Page components
-├── services/      # API services and external integrations
-└── utils/         # Utility functions and helpers
-```
+├── assets/ # Static assets like images, fonts, etc.
+├── components/ # Reusable UI components
+│ └── ui/ # Basic UI components
+├── constants/ # Application constants
+├── contexts/ # React context providers
+├── hooks/ # Custom React hooks
+├── layouts/ # Layout components
+├── pages/ # Page components
+├── services/ # API services and external integrations
+└── utils/ # Utility functions and helpers
+
+````
 
 ## Getting Started
 
@@ -36,17 +63,19 @@ src/
 1. Run the setup script with your project name:
 ```bash
 ./setup.sh my-project-name
-```
+````
 
 ### Manual Installation
 
 1. Clone or download this template
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start the development server:
+
 ```bash
 npm run dev
 ```
